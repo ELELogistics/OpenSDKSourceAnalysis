@@ -5,7 +5,7 @@
 
 | 开源库 | 分析者 | 历时 |blog|
 |--------|--------|
-|   EventBus     |   许锦洋     | 1周|
+|   EventBus     |   许锦洋     | 1周|[ EventBus要点解析](http://blog.csdn.net/mobilexu/article/details/51501686)|
 |retrofit2|曹立成|1周|
 |rxjava 2|高天宝|2周|
 |Okhttp2|蒋岳|2周|
