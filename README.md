@@ -20,4 +20,4 @@
 
 | 开源库 | 分析者 | 历时 |blog|
 |--------|--------|--------|--------|
-| AndFix  |    [许锦洋](https://github.com/xujinyang)     | 1周||
+| AndFix  |    [许锦洋](https://github.com/xujinyang)     | 1周|[AndFix学到的东西](http://xujinyang.github.io/2016/06/05/AndFix%E5%AD%A6%E5%88%B0%E7%9A%84%E4%B8%9C%E8%A5%BF/)|
