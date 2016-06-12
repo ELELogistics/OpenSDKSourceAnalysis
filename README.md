@@ -11,7 +11,7 @@
 |rxjava|[高天宝](https://github.com/wdgtb)|2周|[RxJava源码浅析（一）](http://www.jianshu.com/p/6eb83430c890)|
 |Okhttp2|[蒋岳](https://github.com/jiangyue2780)|2周|[OkHttp3浅析](http://blog.csdn.net/jiangyue2780/article/details/51592724)|
 |fresco |[潘万坤](https://github.com/pandavickey)|2周|[Fresco源码浅析-序（一）](http://www.jianshu.com/p/1524edee4725 )|
-|butterknife|[李兆轩](https://github.com/lizhaoxuan)|一个月||
+|butterknife|[李兆轩](https://github.com/lizhaoxuan)|一个月||[APT入门到项目实践|butterknife源码浅析](https://github.com/lizhaoxuan/Android-APT-Framework)
 |imageLoader|[张家铭](https://github.com/LonerJimmy)|2周|[ImageLoader源码解析](http://blog.csdn.net/zjm0518/article/details/51596872)|
 |Hermes|[赵立飞](https://github.com/Xiaofei-it)|1周|[Hermes源码](https://github.com/Xiaofei-it/Hermes)|
 
