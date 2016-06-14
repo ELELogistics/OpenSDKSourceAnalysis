@@ -4,7 +4,7 @@
 
 		最近大家太累了，7月份再搞.
         
-        这个算笼统的技术分类，认领的时候，会再细化，需要分析优劣，最后组内或者公司分享出来。
+        这个算笼统的技术分类，可以多人认领同一个技术,认领的时候，会再细化，需要分析优劣，最后组内或者公司分享出来。
         
 
 | 技术 | 描述 |认领人|
@@ -59,7 +59,7 @@
 |--------|--------|--------|
 | EventBus   | [ EventBus要点解析](http://blog.csdn.net/mobilexu/article/details/51501686)      |2016-5-23|
 |AndFix|[AndFix学到的东西](http://xujinyang.github.io/2016/06/05/AndFix%E5%AD%A6%E5%88%B0%E7%9A%84%E4%B8%9C%E8%A5%BF/)|2016-5-30|
-
+|SwipeRefreshLayout||2016-6-13|
 ##  [潘万坤](https://github.com/pandavickey)
 
 | 开源库 | blog |日期|
@@ -72,6 +72,12 @@
 | 开源库 | blog |日期|
 |--------|--------|--------|
 | butterknife   |[APT入门到项目实践&butterknife源码浅析](https://github.com/lizhaoxuan/Android-APT-Framework)   |2016-5-23|
+
+## [周逸滕](https://github.com/zhouyiteng)
+| 开源库 | blog |日期|
+|--------|--------|--------|
+|   ||||
+
 
 ## [曹立成](https://github.com/Richard-Cao)
 | 开源库 | blog |日期|
