@@ -65,6 +65,8 @@
 | 开源库 | blog |日期|
 |--------|--------|--------|
 | fresco   | [Fresco源码浅析-序（一）](http://www.jianshu.com/p/1524edee4725 )     |2016-5-23|
+| fresco   | [Fresco源码浅析-Drawee模块（二）](http://www.jianshu.com/p/edc36431fede)     |2016-5-30|
+| fresco   | [Fresco源码浅析-ImagePipeline模块（三）](http://www.jianshu.com/p/116639f920b6)     |2016-06-19|
 
 
 
