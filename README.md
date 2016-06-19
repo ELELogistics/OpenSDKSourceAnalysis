@@ -59,7 +59,7 @@
 |--------|--------|--------|
 | EventBus   | [ EventBus要点解析](http://blog.csdn.net/mobilexu/article/details/51501686)      |2016-5-23|
 |AndFix|[AndFix学到的东西](http://xujinyang.github.io/2016/06/05/AndFix%E5%AD%A6%E5%88%B0%E7%9A%84%E4%B8%9C%E8%A5%BF/)|2016-5-30|
-|SwipeRefreshLayout||2016-6-13|
+|SwipeRefreshLayout|[SwipeRefreshLayout要点详解](http://xujinyang.github.io/2016/06/19/SwipeRefreshLayout%E8%A6%81%E7%82%B9%E8%AF%A6%E8%A7%A3/)|2016-6-13|
 ##  [潘万坤](https://github.com/pandavickey)
 
 | 开源库 | blog |日期|
