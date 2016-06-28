@@ -30,7 +30,9 @@
 
 | 开源库 | blog |日期|
 |--------|--------|--------|
-| Hermes   | [Hermes源码](https://github.com/Xiaofei-it/Hermes)       |2016-5-23|
+| Hermes   | [Hermes库](https://github.com/Xiaofei-it/Hermes)       |2016-5-23|
+|Shelly|[Shelly库](https://github.com/Xiaofei-it/Shelly)|2016-06-15|
+|Hermes-EventBus|[Hermes-EventBus库](https://github.com/Xiaofei-it/Hermes-EventBus)|2016-06-28|
 
 ## [蒋岳](https://github.com/jiangyue2780)
 
