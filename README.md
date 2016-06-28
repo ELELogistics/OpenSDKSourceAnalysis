@@ -38,6 +38,7 @@
 |--------|--------|--------|
 | Okhttp2   | [OkHttp3浅析](http://blog.csdn.net/jiangyue2780/article/details/51592724)      |2016-5-23|
 |JsBridge|[谈谈JsBridge实现](http://blog.csdn.net/jiangyue2780/article/details/51636240)|2016-5-30|
+|RxJava|[RxJava-操作符](http://blog.csdn.net/jiangyue2780/article/details/51775796)|2016-6-28|
 
 ## [高天宝](https://github.com/wdgtb)
 
