@@ -84,7 +84,7 @@
 ## [周逸腾](https://github.com/zhouyiteng)
 | 开源库 | blog |日期|
 |--------|--------|--------|
-| EventBus2.4|[EventBus2.5代码分析(一)](https://github.com/zhouyiteng/opensource/blob/master/EventBus2.4%20%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90(%E4%B8%80).doc)	|2016-6-29|
+| EventBus2.4|[EventBus2.4代码分析(一)](https://github.com/zhouyiteng/opensource/blob/master/EventBus2.4%20%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90(%E4%B8%80).doc)	|2016-6-29|
 
 
 ## [曹立成](https://github.com/Richard-Cao)
