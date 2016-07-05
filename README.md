@@ -95,6 +95,7 @@
 | 开源库 | blog |日期|
 |--------|--------|--------|
 | retrofit2   |[Retrofit2源码分析（一）](http://richardcao.me/2016/05/29/Retrofit2%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89/) |2016-5-23|
+| reading  |[聊聊我的处女作：reading](http://richardcao.me/2016/07/05/Talk-About-Reading/) |2016-7-5|
 
 
 
