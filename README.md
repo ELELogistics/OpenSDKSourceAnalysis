@@ -43,6 +43,7 @@
 | 开源库 | blog |日期|
 |--------|--------|--------|
 | rxjava   | [RxJava源码浅析（一）](http://www.jianshu.com/p/6eb83430c890)      |2016-5-23|
+| Android属性动画   | [Android属性动画](http://www.jianshu.com/p/20feeb271ed8)      |2016-7-2|
 
 
 ## [张家铭](https://github.com/LonerJimmy)
