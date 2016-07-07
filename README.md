@@ -11,7 +11,7 @@
 |Groovy|[Java平台上设计的面向对象编程语言](https://dongchuan.gitbooks.io/gradle-user-guide-/content/overview/why_groovy.html)|||
 |APT|Annotation-Processing-Tool||
 |Kotlin|Android 领域的 Swift||
-|RxAndroid|函数响应式编程（Functional Reactive Programming）|||张家铭|
+|RxAndroid|函数响应式编程（Functional Reactive Programming）  |张家铭|
 |Android插件化|我们已经有了DroidPlugin,但是没有用起来||
 |泡妞秘籍|解决下半生的大问题||
 |...持续跟新|||
