@@ -79,7 +79,12 @@
 ## [李兆轩](https://github.com/lizhaoxuan)
 | 开源库 | blog |日期|
 |--------|--------|--------|
-| butterknife   |[APT入门到项目实践&butterknife源码浅析](https://github.com/lizhaoxuan/Android-APT-Framework)   |2016-5-23|
+| butterknife   |[APT-什么是编译时注解&butterknife源码浅析(一)](https://github.com/lizhaoxuan/Android-APT-Framework/blob/master/什么是编译时注解/android编译时注解框架-什么是编译时注解.md)   |2016-5-23|
+| APT   |[APT-Run Demo(二)](https://github.com/lizhaoxuan/Android-APT-Framework/blob/master/run-demo/android编译时注解框架-run_demo.md)   |2016-5-23|
+| APT   |[APT-Run Project: OnceClick(三)](https://github.com/lizhaoxuan/Android-APT-Framework/blob/master/run-project/android编译时注解框架-run_project.md)   |2016-5-23|
+| APT   |[APT-爬坑（四）](https://github.com/lizhaoxuan/Android-APT-Framework/blob/master/爬坑/android编译时注解框架-爬坑.md)   |2016-5-23|
+| APT   |[APT-语法讲解（五）](https://github.com/lizhaoxuan/Android-APT-Framework/blob/master/语法讲解/android编译时注解框架-语法讲解.md)   |2016-5-23|
+| APT   |[APT-项目实践：CakeDao(六)](https://github.com/lizhaoxuan/Android-APT-Framework/blob/master/CakeDao/android编译时注解框架-数据库orm框架cakedao.md)   |2016-5-23|
 
 ## [周逸腾](https://github.com/zhouyiteng)
 | 开源库 | blog |日期|
