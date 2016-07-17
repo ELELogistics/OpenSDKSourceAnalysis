@@ -73,7 +73,7 @@
 | fresco   | [Fresco源码浅析-Drawee模块（二）](http://www.jianshu.com/p/edc36431fede)     |2016-5-30|
 | fresco   | [Fresco源码浅析-ImagePipeline模块（三）](http://www.jianshu.com/p/116639f920b6)     |2016-06-19|
 |Dagger2|[Dagger2从入门到会用再到暂时放弃](http://www.jianshu.com/p/f55a24908d9a)|2016-06-23|
-
+|RecyclerView|[RecyclerView高端定制三部曲](http://www.jianshu.com/p/5222e54ae214)|2016-07-17|
 
 
 ## [李兆轩](https://github.com/lizhaoxuan)
