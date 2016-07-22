@@ -90,8 +90,8 @@
 | 开源库 | blog |日期|
 |--------|--------|--------|
 | EventBus2.4|[EventBus2.4代码分析(一)](https://github.com/zhouyiteng/opensource/blob/master/EventBus2.4%20%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90(%E4%B8%80).doc)	|2016-6-29|
-| YiBus1.0.0|[参考EventBus2.4实现1.0.2版本](https://github.com/zhouyiteng/YiEventBus)	|2016-7-2|
-
+| YiBus1.0.2|[参考EventBus2.4实现1.0.2版本](https://github.com/zhouyiteng/YiEventBus)	|2016-7-2|
+| 小米4C神隐模式 |[小米4C神隐模式framework初步](https://zhouyiteng.gitbooks.io/-/content/chapter1.html)	|2016-7-22|
 
 ## [曹立成](https://github.com/Richard-Cao)
 | 开源库 | blog |日期|
