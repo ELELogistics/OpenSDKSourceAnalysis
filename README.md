@@ -74,7 +74,7 @@
 | fresco   | [Fresco源码浅析-ImagePipeline模块（三）](http://www.jianshu.com/p/116639f920b6)     |2016-06-19|
 |Dagger2|[Dagger2从入门到会用再到暂时放弃](http://www.jianshu.com/p/f55a24908d9a)|2016-06-23|
 |RecyclerView|[RecyclerView高端定制三部曲](http://www.jianshu.com/p/5222e54ae214)|2016-07-17|
-|热修复 ｜ [Android 主要的热修复方案原理分析](http://www.jianshu.com/p/d10aa991ca76) | 2016-08-06|
+|热修复 | [Android 主要的热修复方案原理分析](http://www.jianshu.com/p/d10aa991ca76) | 2016-08-06|
 
 ## [李兆轩](https://github.com/lizhaoxuan)
 | 开源库 | blog |日期|
