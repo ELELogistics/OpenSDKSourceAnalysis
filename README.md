@@ -9,8 +9,8 @@
 |自动化测试|Robotium，Monkeyrunner，Robolectric,Instrumentation,Appium,macaca|赵立成|
 |性能优化|内存，cpu，电量，流量，分析各app的隐患|许锦洋|
 |Groovy|[Java平台上设计的面向对象编程语言](https://dongchuan.gitbooks.io/gradle-user-guide-/content/overview/why_groovy.html)|周逸腾|
-|APT|Annotation-Processing-Tool|李兆轩，蒋岳,尹伊博|
-|Kotlin|Android 领域的 Swift||
+|APT|Annotation-Processing-Tool|李兆轩，蒋岳|
+|Kotlin|Android 领域的 Swift|尹伊博|
 |RxAndroid|函数响应式编程（Functional Reactive Programming）|李兆轩，蒋岳，家铭，天宝|
 |Android插件化|我们已经有了DroidPlugin,但是没有用起来|潘万坤，立飞|
 |泡妞秘籍|解决下半生的大问题|赵立飞|
