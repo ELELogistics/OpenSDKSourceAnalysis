@@ -60,6 +60,8 @@
 |Glide|[Glide深入浅出](http://blog.csdn.net/zjm0518/article/details/52474289)|2016-9-9|
 |GridView|[自定义的类似于Gridview的布局](https://github.com/LonerJimmy/GridLayoutExample/tree/master)|2016-9-9|
 |图片模糊|[fastBlur jni实现——效率高速度快](https://github.com/LonerJimmy/BlurBitmap)|2016-9-21|
+|手势解锁|[手势解锁，功能强大](https://github.com/LonerJimmy/LockPatternDemo)|2016-9-27|
+
 
 
 
