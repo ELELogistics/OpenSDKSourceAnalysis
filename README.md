@@ -3,16 +3,16 @@
 # 1.技术认领
 
 
-| 技术 | 描述 |认领人|
-|--------|--------|--------|
-|     React-Native  |   What we really want is the user experience of the native mobile platforms, combined with the developer experience we have when building with React on the web.    |许锦洋，潘万坤，曹立成，家铭，天宝,王宏|
+| 技术 | 描述 |认领人|完成|
+|--------|--------|--------||
+|     React-Native  |   What we really want is the user experience of the native mobile platforms, combined with the developer experience we have when building with React on the web.    |许锦洋，潘万坤，曹立成，家铭，天宝,王宏|Y|
 |自动化测试|Robotium，Monkeyrunner，Robolectric,Instrumentation,Appium,macaca|赵立成|
 |性能优化|内存，cpu，电量，流量，分析各app的隐患|许锦洋|
-|Groovy|[Java平台上设计的面向对象编程语言](https://dongchuan.gitbooks.io/gradle-user-guide-/content/overview/why_groovy.html)|周逸腾|
-|APT|Annotation-Processing-Tool|李兆轩，蒋岳|
-|Kotlin|Android 领域的 Swift|尹伊博|
-|RxAndroid|函数响应式编程（Functional Reactive Programming）|李兆轩，蒋岳，家铭，天宝|
-|Android插件化|我们已经有了DroidPlugin,但是没有用起来|潘万坤，立飞|
+|Groovy|[Java平台上设计的面向对象编程语言](https://dongchuan.gitbooks.io/gradle-user-guide-/content/overview/why_groovy.html)|周逸腾|Y|
+|APT|Annotation-Processing-Tool|李兆轩，蒋岳|Y|
+|Kotlin|Android 领域的 Swift|尹伊博|Y|
+|RxAndroid|函数响应式编程（Functional Reactive Programming）|李兆轩，蒋岳，家铭，天宝|Y|
+|Android插件化|我们已经有了DroidPlugin,但是没有用起来|潘万坤，立飞|Y|
 |泡妞秘籍|解决下半生的大问题|赵立飞|
 |...持续跟新|||
 
@@ -73,7 +73,11 @@
 |AndFix|[AndFix学到的东西](http://xujinyang.github.io/2016/06/05/AndFix%E5%AD%A6%E5%88%B0%E7%9A%84%E4%B8%9C%E8%A5%BF/)|2016-5-30|
 |SwipeRefreshLayout|[SwipeRefreshLayout要点详解](http://xujinyang.github.io/2016/06/19/SwipeRefreshLayout%E8%A6%81%E7%82%B9%E8%AF%A6%E8%A7%A3/)|2016-6-13|
 |ReduxAndroid|[Redux Android 初探](https://github.com/xujinyang/ReduxAndroid)|2016-7-3|
-
+|RN源码分析|[React-Native 源码分析一-如何启动JS页面](http://xujinyang.github.io/2016/09/09/React-Native-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)|2016-09-09|
+|RN源码分析|[React-Native 源码分析二-JSX如何渲染成原生页面(上)](http://xujinyang.github.io/2016/09/12/React-Native-jsx%20analyse1/)|2016-09-12 |
+|RN源码分析|[React-Native 源码分析二-JSX如何渲染成原生页面(下)](http://xujinyang.github.io/2016/09/13/React-Native-jsx%20analyse2/)|2016-09-13|
+|RN源码分析|[React-Native打包index.android.bundle.meta到底是什么?](http://xujinyang.github.io/2016/09/19/React-Native%E6%89%93%E5%8C%85index-android-bundle-meta%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88/)|2016-09-19|
+|RN热更新|[React-Native 图片热更新初探](http://xujinyang.github.io/2016/10/09/React-Native-update_rn_img/)|2016-10-09|
 ##  [潘万坤](https://github.com/pandavickey)
 
 | 开源库 | blog |日期|
