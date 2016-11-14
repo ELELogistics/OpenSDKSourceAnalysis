@@ -3,8 +3,9 @@
 # 1.技术认领
 
 
+
 | 技术 | 描述 |认领人|完成|
-|--------|--------|--------||
+|--------|--------|--------|--------|
 |     React-Native  |   What we really want is the user experience of the native mobile platforms, combined with the developer experience we have when building with React on the web.    |许锦洋，潘万坤，曹立成，家铭，天宝,王宏|Y|
 |自动化测试|Robotium，Monkeyrunner，Robolectric,Instrumentation,Appium,macaca|赵立成|N|
 |性能优化|内存，cpu，电量，流量，分析各app的隐患|许锦洋|N|
