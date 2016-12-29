@@ -39,6 +39,7 @@
 |JsBridge|[谈谈JsBridge实现](http://blog.csdn.net/jiangyue2780/article/details/51636240)|2016-5-30|
 |RxJava|[RxJava-操作符](http://blog.csdn.net/jiangyue2780/article/details/51775796)|2016-6-28|
 |RxJava|[RxJava-源码探究](http://blog.csdn.net/jiangyue2780/article/details/52145591)|2016-8-8|
+|RxJava|[Android模板化实现](http://blog.csdn.net/jiangyue2780/article/details/53748970)|2016-12-19|
 
 ## [高天宝](https://github.com/wdgtb)
 
